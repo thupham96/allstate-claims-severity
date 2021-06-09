@@ -1,2 +1,1 @@
-# allstate-claims-severity
-Python Project: Allstate Claims Severity
+# Allstate Claims Severity
